@@ -1,0 +1,149 @@
+[BTChat]
+TabAllCaption="All"
+TabWhisperCaption="Whisper"
+TabClanCaption="Clan"
+LabelChatModeCaption="ChatMode"
+
+[BTRoomInfoPanel]
+LabelModeCaption="Mode"
+LabelWeaponRestrictionCaption="Wpn"
+LabelHardcoreCaption="H.Core"
+LabelCapacityCaption="Cap."
+LabelGameTimeCaption="Time"
+LabelObjectiveCaption="Score"
+
+[BTCharInfo]
+LabelRankingCaption="RANK"
+LabelExpCaption="EXP"
+LabelPointCaption="POINT"
+LabelRecordsCaption="STAT"
+
+[BTRoomListControl]
+ButtonCreateCaption="Create"
+ButtonQuickJoinCaption="Q.Join"
+ButtonQuickJoinSettingsCaption="Q.J.Settings"
+ButtonJoinCaption="Join"
+ButtonShowJoinableCaption="Joinables"
+
+[BTMessenger]
+CommunityTabOnlineCaption="On"
+CommunityTabBlockedCaption="Blck"
+CommunityTabFriendCaption="Friend"
+CommunityTabClanCaption="Clan"
+
+[BTRoomListBox]
+ColumnCaptionSP="SP"
+ColumnCaptionNO="NO"
+ColumnCaptionPW="PW"
+ColumnCaptionRoomName="Room Name"
+ColumnCaptionMap="Map"
+ColumnCaptionMode="Game Mode"
+ColumnCaptionWP="WP"
+ColumnCaptionCapacity="NUM"
+ColumnCaptionStatus="STTS"
+ColumnCaptionPing="PING"
+StatusStringWaiting="WAIT"
+StatusStringPlaying="PLAY"
+
+[BTTeamMemberList]
+ColumnCaptionClan="Clan"
+ColumnCaptionLevel="Lvl"
+ColumnCaptionNick="Nick"
+ColumnCaptionClanName="Clan Name"
+ColumnCaptionStatus="Stts"
+ColumnCaptionPing="Ping"
+StatusStringHost=""
+StatusStringWaiting="Waiting"
+StatusStringReady="Ready"
+StatusStringPlaying="Playing"
+StatusStringShop="SHOP"
+StatusStringAuction="AUCTION"
+
+[BTWindowCreateRoom]
+DefaultRoomNamesCount=1
+DefaultRoomNames[0]="Batteries!"
+CaptionRoomName="Title"
+CaptionPassword="PWD"
+CaptionMap="Map"
+CaptionGameMode="Mode"
+CaptionCapacity="Num"
+CaptionWeaponRestriction="Wpn"
+CaptionScore="Score"
+CaptionOK="OK"
+CaptionCancel="Cancel"
+
+[BTWindowRoomInfo]
+CaptionMultiBomb="Bomb"
+CaptionBombForEveryone="Everyone"
+CaptionBombForOne="Single"
+CaptionAllyDamage="AllyDamage"
+CaptionJumpIn="JumpIn"
+CaptionFreeView="FreeView"
+CaptionVoiceChat="VoiceChat"
+CaptionTeamBalance="TeamBalance"
+CaptionSpectate="Spectate"
+CaptionKillCam="KillCam"
+CaptionVote="Vote"
+
+[BTContextMenuUser]
+Caption_MigrateHost="MigrateHost"
+Caption_DetailedInfo="DetailedInfo"
+Caption_Whisper="Whisper"
+Caption_AddToFriends="AddToFriends"
+Caption_JoinClan="JoinClan"
+Caption_ClanInfo="ClanInfo"
+
+[BTMyItemList_Weapon]
+CaptionHeaderName="Name"
+CaptionHeaderItemRank="Item Rank"
+CaptionHeaderRequiredLevel="Required Level"
+CaptionHeaderStatus="Status"
+CaptionHeaderDamage="Damage"
+CaptionStatus_Eligible="Eligible"
+CaptionStatus_Equipped="Equipped"
+CaptionStatus_NotForAuction="NotForAuction"
+CaptionStatus_QuickSlot="QuickSlot"
+CaptionStatus_NeedRepair="NeedRepair"
+
+[BTWindowAuction_BuyItNow]
+CaptionBuyItNowPrice="Price"
+CaptionBuyQuestion="Buy It Now?"
+
+[BTWindowAuction_Cancel]
+CaptionCancelQuestion="Cancel"
+CaptionWarning="Warning"
+
+[BTMyAuctionList]
+CaptionDamage="Damage"
+CaptionEndDate="EndDate"
+CaptionCurrentAndBuyItNowPrice="CurrentAndBuyItNowPrice"
+CaptionBestOfferUser="BestOfferUser"
+CaptionLongest="Longest"
+CaptionLonger="Longer"
+CaptionSoso="Soso"
+CaptionShorter="Shorter"
+CaptionShortest="Shortest"
+CaptionHour="Hour"
+CaptionMinute="Minute"
+CaptionSeconds="Seconds√ "
+
+[BTWindowRepairItem]
+CapButton_Repair="Repair"
+CapButton_Cancel="Cancel"
+CapLabel_RepairPoint="Repair Point"
+CapLabel_MyPoint="My Point"
+CapLabel_RemainPoint="Remain Point"
+
+[BTWindowBuyItem]
+CaptionRefillCash="Refill Cash"
+CaptionItemPrice="Item Price"
+CaptionCurrent="Current"
+CaptionChange="After"
+
+[BTWindowSellItem]
+CaptionSellingPrice="Selling Price"
+CaptionCurrent="Current"
+CaptionAfter="After"
+
+[BTWindowErrorDefineHK]
+strErrorDefine[1100]="You already own this item/weapon."

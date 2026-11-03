@@ -1,0 +1,5 @@
+[wGameObject_Bomb]
+NetUpdateFrequency=100
+
+[VotingReplicationInfo]
+NetUpdateFrequency=1

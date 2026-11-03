@@ -1,0 +1,8 @@
+[General]
+;;FrameWindow="Unreal Level Editor"
+FrameWindow="Battery Warfare Level Editor"
+Start="UnrealEd (Starting)"
+Exit="UnrealEd (Exiting)"
+Run="UnrealEd (Running)"
+Product="UnrealEd"
+Abbreviation="UEd"

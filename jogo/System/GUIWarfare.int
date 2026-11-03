@@ -1,0 +1,150 @@
+[BTPageServerSelection]
+ButtonQuickJoinCaption="Quick Join"
+ButtonQuickJoinSettingsCaption="Q.J.Settings"
+ButtonRefreshCaption="Refresh"
+
+[BTPageRoomLobby]
+ButtonViewRoomInfoCaption="View Settings"
+ButtonChangeRoomInfoCaption="Change Settings"
+ButtonStartCaption="Start Game"
+ButtonGetReadyCaption="Get Ready"
+ButtonIamReadyCaption="I am Ready"
+MessageNatTypeNotDetermined="Please wait. Your NAT type is not yet determined"
+MessageCannotEnterShopWhileYouAreReady="Cannot enter shop while you are ready"
+MessageCannotChangeTeamWhileYouAreReady="Cannot change team while you are ready"
+
+[BTPageOption]
+CaptionGraphic="Graphic"
+CaptionSound="Sound"
+CaptionControl="Control"
+CaptionCommunity="Community"
+CaptionEtc="Etc"
+CaptionReset="Reset"
+
+[BTPageOption_Graphic]
+CaptionScreenRatio="ScreenRatio"
+CaptionScreenResolution="ScreenResolution"
+CaptionColorDepth="ColorDepth"
+CaptionBrightness="Brightness"
+CaptionGore="Gore"
+CaptionGoreNotice="You must be 18 years or older"
+CaptionGraphicQuality="GraphicQuality"
+CaptionAutoSetting="AutoSetting"
+CaptionAdvancedOptions="AdvancedOptions"
+CaptionTextureQuality="TextureQuality"
+CaptionBGQuality="BGQuality"
+CaptionLOD="LOD"
+CaptionShadow="Shadow"
+CaptionEffects="Effects"
+CaptionAntialias="Antialias"
+CaptionShader="Shader"
+CaptionHDR="HDR"
+CaptionDOF="DOF"
+CaptionSSAO="SSAO"
+CaptionDynamicLighting="DynamicLighting"
+CaptionCorona="Corona"
+CaptionDecal="Decal"
+CaptionPhysics="Physics"
+CaptionRagdoll="Ragdoll"
+CaptionVeryHigh="VeryHigh"
+CaptionHigh="High"
+CaptionNormal="Normal"
+CaptionLow="Low"
+CaptionVeryLow="VeryLow"
+
+[BTPageOption_Community]
+CaptionWhisper="Whisper"
+CaptionMessage="Message"
+CaptionInvitation="Invitation"
+CaptionRequestFriend="Request Friend"
+CaptionChatOption="Chat Option"
+CaptionJoinClan="JoinClan"
+CaptionAllowAll="Allow All"
+CaptionDenyAll="Deny All"
+
+[BTPageOption_ETC]
+CaptionRadioLanguage="Radio Language"
+CaptionRadioLanguageKorean="Korean"
+CaptionRadioLanguageEnglish="English"
+CaptionShowAlly="Show Ally"
+
+[BTPageOption_Control]
+CaptionMouseSensitivity="CaptionMouseSensitivity"
+CaptionMouseInvert="CaptionMouseInvert"
+CaptionMouseAcc="CaptionMouseAcc"
+
+[BTPageOption_Sound]
+CaptionBGMVol="BGM Vol"
+CaptionEffectVol="Effect Vol"
+CaptionVoiceChat="Voice Chat"
+CaptionMicVol="Mic Vol"
+CaptionVoiceVol="Voice Vol"
+
+[BTPageAuction]
+CaptionSearch="Search"
+CaptionOfferList="OfferList"
+CaptionAuction="Auction"
+
+[BTPageAuction_Auction]
+CaptionCancelAuction="Cancel Auction"
+CaptionStartAuction="Start Auction"
+CaptionSellCount="SellCount"
+CaptionStartPrice="StartPrice"
+CaptionSaleDuration="SaleDuration"
+CaptionDeposit="Deposit"
+CaptionBuyItNowPrice="BuyItNowPrice"
+
+[BTPageAuction_Search]
+CaptionUsable="Usable"
+
+[BTPageShop_QuickSlot]
+strWeaponPosition[0]="Main Weapon"
+strWeaponPosition[1]="Sub Weapon"
+strWeaponPosition[2]="Throw Weapon 1"
+strWeaponPosition[3]="Throw Weapon 1"
+strSkillPosition[0]="Skill 1"
+strSkillPosition[1]="Skill 2"
+strSkillPosition[2]="Disable"
+strSkillPosition[3]="Disable"
+strChangeName="Change Name"
+
+[BTPageShop]
+CapMainTab_WP="Weapon"
+CapMainTab_EQ="Equip"
+CapMainTab_SK="Skill"
+CapMainTab_QS="QuickSlot"
+CapSubTab_All="All"
+CapSubTab_AR="AR"
+CapSubTab_SMG="SMG"
+CapSubTab_SR="SR"
+CapSubTab_New="New & Hot"
+CapSubTab_Normal="Normal"
+CapSubTab_Clan="Clan"
+CapSubTab_Weapon="Weapon"
+CapSubTab_Tech="Tech"
+CapButton_Equip="Equip"
+CapButton_Repair="Repair"
+CapButton_Sell="Sell"
+CapButton_Mod="Modify"
+CapButton_Buy="Buy"
+CapButton_Gift="Gift"
+CapButton_Cash="Cash Charge"
+CapButton_UnEquip="UnEquip"
+
+[BTPageShop_Weapon]
+Cap_MainWeapon="  Primary"
+Cap_SubWeapon="  Secondary"
+Cap_TWeapon1="  Throw1"
+Cap_TWeapon2="  Throw2"
+Cap_Special="  Special"
+
+[BTPageShop_Skill]
+Cap_Skill1="  Skill1"
+Cap_Skill2="  Skill2"
+Cap_Skill3="  Skill3"
+Cap_Skill4="  Skill4"
+Cap_Disable="  Disable"
+
+[BTPageCharacterCreation]
+DefaultNick="Type Nickname here"
+CaptionComplete="Complete"

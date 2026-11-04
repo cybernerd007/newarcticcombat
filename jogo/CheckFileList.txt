@@ -371,7 +371,7 @@
 "System\Window.dll" 425984 1167885
 "System\Window.gpt" 3936 CFA36967
 "System\Window.int" 2458 45480C97
-"System\WinDrv.dll" 569858 807DA8AC
+"System\WinDrv.dll" 569858 C7D2031C
 "System\WinDrv.gpt" 1178 6C94CD81
 "System\WinDrv.int" 701 726A1817
 "System\wMainPageTest.u" 4940 D7E376B7

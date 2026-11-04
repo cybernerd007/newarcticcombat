@@ -254,7 +254,7 @@
 "System\Engine.est" 75984 24C49382
 "System\Engine.gpt" 69918 161AF516
 "System\Engine.int" 21449 8AE0A503
-"System\Engine.ptt" 71304 9C7007C4
+"System\Engine.ptt" 71258 D50B117F
 "System\Engine.u" 2954338 D9CABE92
 "System\EngineH.dll" 7277548 DFFE52BA
 "System\Entry.ucl" 86 45CE5621
@@ -280,7 +280,7 @@
 "System\GUIWarfareControls.est" 431284 E67D3210
 "System\GUIWarfareControls.gpt" 378868 C532A429
 "System\GUIWarfareControls.int" 3753 E203966A
-"System\GUIWarfareControls.ptt" 418738 D461A10A
+"System\GUIWarfareControls.ptt" 418736 35A9828B
 "System\GUIWarfareControls.u" 2044753 6AA6423C
 "System\GUIWarfareStyles.u" 2366 9D25B2B2
 "System\Hong_GP.ebpx" 1183517 2E63B62C

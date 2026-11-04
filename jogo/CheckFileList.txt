@@ -202,7 +202,7 @@
 "System\ALAudio.gpt" 478 855A6459
 "System\ALAudio.int" 260 336F832A
 "System\ArcticCombat.exe" 455082 271D5281
-"System\ArcticCombat.ini" 1197 6B143435
+"System\ArcticCombat.ini" 1264 A909CAF0
 "System\BatteryNet.dll" 3407842 24E83886
 "System\BatteryNet.gpt" 1526 D1DF8828
 "System\BatteryNet.u" 326927 7569BB06
@@ -223,7 +223,7 @@
 "System\D3DDrv.int" 367 7AE42199
 "System\d3dx9_35.dll" 3727720 5F116611
 "System\dbghelp.dll" 1061944 E030671F
-"System\Default_GP.ini" 2214 9A000C02
+"System\Default_GP.ini" 2348 83C50DB6
 "System\DefOpenAL32.dll" 110592 CFD168F4
 "System\DemoLicense.gpt" 6937 FF1E6C07
 "System\DemoLicense.int" 15794 4890F93B

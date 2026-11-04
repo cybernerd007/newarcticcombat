@@ -276,12 +276,12 @@
 "System\GUIWarfare.gpt" 61430 EFB6D8B
 "System\GUIWarfare.int" 4020 B74B1BC2
 "System\GUIWarfare.ptt" 64632 1EF4DA9A
-"System\GUIWarfare.u" 1547326 3BD15CEE
+"System\GUIWarfare.u" 1547326 98242D11
 "System\GUIWarfareControls.est" 431284 E67D3210
 "System\GUIWarfareControls.gpt" 378868 C532A429
 "System\GUIWarfareControls.int" 3753 E203966A
 "System\GUIWarfareControls.ptt" 418736 35A9828B
-"System\GUIWarfareControls.u" 2044753 6AA6423C
+"System\GUIWarfareControls.u" 2044753 9E1E2077
 "System\GUIWarfareStyles.u" 2366 9D25B2B2
 "System\Hong_GP.ebpx" 1183517 2E63B62C
 "System\IFC23.dll" 237568 1F7FD954

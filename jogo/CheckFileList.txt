@@ -296,7 +296,7 @@
 "System\Manifest.gpt" 2376 F0689B2
 "System\msvcp71.dll" 503808 4029812E
 "System\MSVCR71.dll" 348160 35563170
-"System\nacp2p.dll" 21504 F3FA035F
+"System\nacp2p.dll" 22016 61545AF1
 "System\nacp2p.ini" 482 5E924A26
 "System\NoIntro.ucl" 90 CE2ED0E5
 "System\ogg.dll" 16896 8231D487

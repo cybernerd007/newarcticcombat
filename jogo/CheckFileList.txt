@@ -630,3 +630,4 @@
 "Textures\WT_SR_Hecate.ebtx" 9471901 2B1F9B27
 "Textures\WT_SR_M21.ebtx" 2964017 D9056C89
 "Textures\WT_SR_M24.ebtx" 2231744 666DFE9A
+"System\steam_appid.txt" 6 AEE06D48

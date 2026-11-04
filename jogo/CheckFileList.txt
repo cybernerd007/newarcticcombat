@@ -202,7 +202,6 @@
 "System\ALAudio.gpt" 478 855A6459
 "System\ALAudio.int" 260 336F832A
 "System\ArcticCombat.exe" 455082 271D5281
-"System\ArcticCombat.ini" 1264 A909CAF0
 "System\BatteryNet.dll" 3407842 24E83886
 "System\BatteryNet.gpt" 1526 D1DF8828
 "System\BatteryNet.u" 326927 7569BB06
@@ -338,7 +337,6 @@
 "System\UnrealGame.int" 13685 AEEC55AB
 "System\UnrealGame.u" 560222 F32C9719
 "System\unrealserverproxy.dll" 45056 C7D1AB4E
-"System\UPlaylists.ini" 62 7EA04C5B
 "System\UT2003.gpt" 296 A0E8F105
 "System\UT2003.int" 192 A5BB732
 "System\ut2004.gpt" 328 40602D47

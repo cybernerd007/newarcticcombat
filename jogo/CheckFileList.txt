@@ -254,7 +254,7 @@
 "System\Engine.est" 75984 24C49382
 "System\Engine.gpt" 69918 161AF516
 "System\Engine.int" 21449 8AE0A503
-"System\Engine.ptt" 71308 A3E3766E
+"System\Engine.ptt" 71304 9C7007C4
 "System\Engine.u" 2954338 D9CABE92
 "System\EngineH.dll" 7277548 DFFE52BA
 "System\Entry.ucl" 86 45CE5621
@@ -632,3 +632,4 @@
 "Textures\WT_SR_M24.ebtx" 2231744 666DFE9A
 "System\steam_appid.txt" 6 AEE06D48
 "System\Test.ini" 39 186DCC34
+"System\dgVoodoo.conf" 22544 3043D896

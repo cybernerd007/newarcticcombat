@@ -296,7 +296,7 @@
 "System\Manifest.gpt" 2376 F0689B2
 "System\msvcp71.dll" 503808 4029812E
 "System\MSVCR71.dll" 348160 35563170
-"System\nacp2p.dll" 22016 61545AF1
+"System\nacp2p.dll" 22528 E8240C83
 "System\nacp2p.ini" 482 5E924A26
 "System\NoIntro.ucl" 90 CE2ED0E5
 "System\ogg.dll" 16896 8231D487
@@ -545,7 +545,7 @@
 "Textures\TD_Decal.ebtx" 19977818 110A85D5
 "Textures\TD_Nature.ebtx" 13265487 C4F4168D
 "Textures\Warfare_Cubemap.ebtx" 529780 BCD6188D
-"Textures\Warfare_GP_Advertising.ebtx" 1050374 4B941BF2
+"Textures\Warfare_GP_Advertising.ebtx" 1050374 725C0F0C
 "Textures\Warfare_GP_UI_Help.ebtx" 3231229 7341E8F0
 "Textures\Warfare_GP_UI_HUD.ebtx" 9215362 80B1B589
 "Textures\Warfare_GP_UI_HUD_ETC.ebtx" 1752072 CB05794C

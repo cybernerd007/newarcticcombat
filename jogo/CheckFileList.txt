@@ -632,4 +632,4 @@
 "Textures\WT_SR_M24.ebtx" 2231744 666DFE9A
 "System\steam_appid.txt" 6 AEE06D48
 "System\Test.ini" 39 186DCC34
-"System\dgVoodoo.conf" 22544 3043D896
+"System\dgVoodoo.conf" 154 6239BD1C

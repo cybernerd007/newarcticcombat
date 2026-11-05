@@ -2,4 +2,6 @@
 
 Repositório usado pelo launcher para atualizar o jogo.
 
-https://newarticombat.com/
+Site Oficial do Projeto: https://newarticombat.com/
+
+Discord Oficial do Projeto: https://discord.gg/ExmXt7e7aS
